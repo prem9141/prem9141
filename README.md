@@ -1,4 +1,6 @@
-### Hi there 👋, I'm Prem Kumar currently pursuing my masters in computer science. 
+### Hi there 👋, 
+
+##### I'm Prem Kumar currently pursuing my masters in computer science. 
 
 - 🔭 I’m currently working on mobile application developement
 - 🌱 I’m currently learning Azure, Docker, Angular...
